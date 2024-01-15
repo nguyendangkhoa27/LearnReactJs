@@ -1,0 +1,17 @@
+
+
+
+NPM
+    -Project: có phạm vi trong dự án.
+        - npm i react react-dom 
+        - npm install react react-dom --save => dependencies
+        - npm i react react-dom -D 
+        - npm install react react-dom --save-dev => devDependencies
+    - Global : có phạm vi ở toàn cục => cài dự án vào máy tính (lưu trữ ở User trong máy tính)
+        - npm install --global create-react-app
+        - npm i -g create-react-app
+        - nếu là các máy như mac, linux ubuntu thì thêm lệnh sudo để lấy quyền root
+        - sudo npm i -g create-react-app
+        - npm uninstall -g create-react-app
+NPX 
+    - để hỗ trợ thực thi những thư viện có folder bin để thực thi thư viện

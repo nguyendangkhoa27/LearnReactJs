@@ -1,0 +1,10 @@
+//Cấu trúc dự án
+React-Webpack
+     - src // thư mục chứa source code chính
+            -components // thư mục chứa các components
+                -component.js // các components
+                -component.js // các components
+                -component.js // các components
+            -index.js // file khởi tạo dự án. file đầu vào của dự án, render app vào #root
+     - public
+            - index.html // html page, nơi chứa #root element 
